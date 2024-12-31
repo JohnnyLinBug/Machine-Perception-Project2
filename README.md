@@ -70,6 +70,4 @@ The project demonstrates the critical role of dataset quality and diversity in N
 - Matt (Zitong) Wei
 - Boshen Pan
 
---- 
 
-Feel free to adjust details as needed!
